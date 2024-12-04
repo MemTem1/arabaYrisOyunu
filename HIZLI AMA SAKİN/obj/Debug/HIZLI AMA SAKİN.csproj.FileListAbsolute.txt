@@ -1,0 +1,75 @@
+C:\Users\hp\Desktop\c# genel tekrar\tekrar\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\HIZLI AMA SAKİN.exe.config
+C:\Users\hp\Desktop\c# genel tekrar\tekrar\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\HIZLI AMA SAKİN.exe
+C:\Users\hp\Desktop\c# genel tekrar\tekrar\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\HIZLI AMA SAKİN.pdb
+C:\Users\hp\Desktop\c# genel tekrar\tekrar\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\c# genel tekrar\tekrar\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\c# genel tekrar\tekrar\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\c# genel tekrar\tekrar\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\c# genel tekrar\tekrar\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\c# genel tekrar\tekrar\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\c# genel tekrar\tekrar\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\c# genel tekrar\tekrar\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI_AMA_SAKİN.Form1.resources
+C:\Users\hp\Desktop\c# genel tekrar\tekrar\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI_AMA_SAKİN.Properties.Resources.resources
+C:\Users\hp\Desktop\c# genel tekrar\tekrar\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\c# genel tekrar\tekrar\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\c# genel tekrar\tekrar\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.exe
+C:\Users\hp\Desktop\c# genel tekrar\tekrar\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.pdb
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\HIZLI AMA SAKİN.exe.config
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\HIZLI AMA SAKİN.exe
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\HIZLI AMA SAKİN.pdb
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.ResolveComReference.cache
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI_AMA_SAKİN.Form1.resources
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI_AMA_SAKİN.Properties.Resources.resources
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.exe
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.pdb
+C:\Users\hp\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI_AMA_SAKİN.Form2.resources
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\HIZLI AMA SAKİN.exe.config
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\HIZLI AMA SAKİN.exe
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\HIZLI AMA SAKİN.pdb
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\Interop.WMPLib.dll
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.AssemblyReference.cache
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\Interop.WMPLib.dll
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.ResolveComReference.cache
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI_AMA_SAKİN.Form1.resources
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI_AMA_SAKİN.Form2.resources
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI_AMA_SAKİN.Properties.Resources.resources
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.GenerateResource.cache
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.CoreCompileInputs.cache
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.exe
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.pdb
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI_AMA_SAKİN.Form3.resources
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\Interop.BlueStacks.dll
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\KAYIP BALIKMEMO\Desktop\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\HIZLI AMA SAKİN.exe.config
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\HIZLI AMA SAKİN.exe
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\HIZLI AMA SAKİN.pdb
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\Interop.WMPLib.dll
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.AssemblyReference.cache
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\Interop.BlueStacks.dll
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\Interop.WMPDXMLib.dll
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\Interop.WMPLauncher.dll
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\Interop.WMPLib.dll
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.ResolveComReference.cache
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI_AMA_SAKİN.Form1.resources
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI_AMA_SAKİN.Form2.resources
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI_AMA_SAKİN.Form3.resources
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI_AMA_SAKİN.Properties.Resources.resources
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.GenerateResource.cache
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.csproj.CoreCompileInputs.cache
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.exe
+C:\Users\KAYIP BALIKMEMO\Desktop\memoli-pc\DEVELOP\C#\PROJELER\C# ÖDEV\HIZLI AMA SAKİN\HIZLI AMA SAKİN\obj\Debug\HIZLI AMA SAKİN.pdb
